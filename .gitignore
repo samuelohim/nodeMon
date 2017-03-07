@@ -1,0 +1,12 @@
+.env
+# logs
+	logs
+
+	*.log
+
+	npm-debug.log*
+
+# Runtime date
+pids
+*.pid
+*.seed
